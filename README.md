@@ -1,2 +1,2 @@
-# To-Do-List-Python
- A simple To Do app using Python and Tkinter UI
+Python project – creating a GUI Based to-do list application
+to-do list application will include the ability to add tasks, view tasks, and delete tasks.
